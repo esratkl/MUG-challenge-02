@@ -9,7 +9,7 @@ Bu proje, hasta değerlendirme ve tele-diş hekimliği süreçlerini mobil ortam
 
 Uygulamanın çalışma mantığını ve arayüzünü aşağıdaki video üzerinden izleyebilirsiniz:
 
-👉 [**Uygulama Tanıtım Videosunu İzle (YouTube - Liste Dışı)**]([https://www.youtube.com/shorts/0mzFDPHPz2g])
+👉[Uygulama Tanıtım Videosunu İzle](https://www.youtube.com/shorts/0mzFDPHPz2g)
 
 ---
 
@@ -45,7 +45,11 @@ Manuel ilerleyen hasta değerlendirme süreçlerinin mobil ortamda kayıt altın
 
 Ana uygulama ekranları aşağıda yer almaktadır:
 
-![Uygulama Önizleme]("C:\Users\esrat\Pictures\Screenshots\Screenshot 2026-03-04 203959.png","C:\Users\esrat\Pictures\Screenshots\Screenshot 2026-03-04 204224.png")
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/f7117069-802c-4889-85e8-301510d5f272" width="250" />
+  <img src="https://github.com/user-attachments/assets/880e8c9d-0bc3-440c-9810-adcd1d73d6ee" width="250" />
+  <img src="https://github.com/user-attachments/assets/71cee17e-5210-41c1-bf84-b805fc907676" width="250" />
+</p>
 
 ---
 
